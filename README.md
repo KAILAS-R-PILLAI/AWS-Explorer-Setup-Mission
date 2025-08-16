@@ -2,7 +2,7 @@
 
 Created an IAM user for the AWS Explorer Setup.<img width="1545" height="284" alt="Screenshot 2025-08-16 220149" src="https://github.com/user-attachments/assets/ed47af64-72c5-4dfa-bb42-14d29039496c" />
 
-Set up AWS IAM policies like EC2 read only, S3 read only, RDS read only.<img width="1512" height="466" alt="Screenshot 2025-08-16 214905" src="https://github.com/user-attachments/assets/91ee129d-3e37-4fad-85e6-24815c58d7b2" />
+Set up AWS IAM policies like EC2 read only, S3 read only and RDS read only.<img width="1512" height="466" alt="Screenshot 2025-08-16 214905" src="https://github.com/user-attachments/assets/91ee129d-3e37-4fad-85e6-24815c58d7b2" />
 
 
 Configured AWS credentials successfully using Access Keys<img width="1077" height="276" alt="Screenshot 2025-08-16 215216" src="https://github.com/user-attachments/assets/a32e3c82-7b40-43b6-a74c-2fb71da01e46" />
